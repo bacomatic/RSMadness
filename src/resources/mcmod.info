@@ -1,0 +1,15 @@
+[{
+    "modid": "mod_RSMadness",
+    "name": "RSMadness",
+    "description": "Redstone Madness, random redstone tweaks.",
+    "version": "$version",
+    "credits": "A Shaded Reality Production",
+    "logoFile": "com/shadedreality/minecraft/rsmadness/Icon.png",
+    "mcversion": "$mcversion",
+    "url": "https://github.com/bacomatic/RSMadness",
+    "updateUrl": "",
+    "authorList": [ "Bacomatic" ],
+    "parent":"",
+    "screenshots": [],
+    "dependencies": ["Forge"]
+}]
